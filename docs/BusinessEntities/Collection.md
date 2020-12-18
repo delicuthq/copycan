@@ -1,4 +1,4 @@
-#Collection
+# Collection
 
 Entity aimed to separate sets of user defined content tokens (phrases, images, videos, Links).
 
@@ -9,3 +9,8 @@ From user point of view collection is everything related to specific topic, proj
 - Default collection is called Drafts.
 - Assess is managed at the level of individual collection.
 - Placeholders and list are managed at the level of the collection.
+
+
+## Related
+
+[Database Scheme](databasescheme.ms)
