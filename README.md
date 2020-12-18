@@ -1,4 +1,4 @@
 # contentbook
 
 
-[wiki](/docs/wiki.md)
+[wiki](/docs/Wiki.md)
