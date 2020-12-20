@@ -24,8 +24,8 @@ assignees: ''
 ## Design
 *Drag and drop screenshot from Figma for quick reference*
 
-[wf/s](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id={updete-this})
-[proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id={update-this})
+[wf/s](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
+[proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
 
 ## Related
 *Specify links to related tickets or documentation pages*
