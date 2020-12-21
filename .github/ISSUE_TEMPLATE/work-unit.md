@@ -1,7 +1,7 @@
 ---
 name: Work unit
 about: Any deliverable unit of work
-title: Make it possible to ...
+title: ''
 labels: ''
 assignees: ''
 
@@ -22,7 +22,7 @@ assignees: ''
 **Field-name** control-type (required?) - description.
 
 ## Design
-*Drag and drop screenshot from Figma for quick reference*
+*Paste  or drag and drop screenshot from Figma for quick reference*
 
 [wf/s](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
 [proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
