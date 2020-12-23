@@ -24,7 +24,7 @@ assignees: ''
 ## Design
 *Paste  or drag and drop screenshot from Figma for quick reference*
 
-[wf/s](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
+[wf/s](https://www.figma.com/view/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
 [proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
 
 ## Related
