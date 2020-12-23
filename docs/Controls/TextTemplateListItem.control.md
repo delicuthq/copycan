@@ -1,6 +1,3 @@
----
-title: TextTemplateListItem Control
----
 
 ## TextTemplateListItem Control
 
