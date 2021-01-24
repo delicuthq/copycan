@@ -14,6 +14,8 @@ assignees: ''
 *Give an idea why it is needed*
 
 ## How
+*See design in Figma*
+
 *Describe details on how it should be done*
 
 ## Data points
@@ -24,8 +26,8 @@ assignees: ''
 ## Design
 *Paste or drag and drop screenshot from Figma for quick reference*
 
-[wf/s](https://www.figma.com/view/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
-[proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Content-Book?node-id=REPLACE_THIS)
+[wf/s](https://www.figma.com/file/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS)
+[proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS)
 
 ## Related
 *Specify links to related tickets or documentation pages*
