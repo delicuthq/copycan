@@ -14,12 +14,12 @@ assignees: ''
 *Give an idea why it is needed*
 
 ## How
-*See design in Figma*
+*See the design in Figma*
 
 *Describe details on how it should be done*
 
-## Data points
-*Describe fields, components of the UI and the sources of data to be presented to the users.*
+## Datapoints
+*Describe fields, components of the UI, and the sources of data to be presented to the users.*
 
 **Field-name** control-type (required?) - description.
 
@@ -35,6 +35,6 @@ assignees: ''
 
 
 ## Out of scope
-*Explain what was cut from the scope of this tickets, considering that designs if Figma are more feature complete*
+*Explain what was cut from the scope of these tickets, considering that design in Figma is more feature-complete*
  * One
  * Two
