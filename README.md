@@ -9,5 +9,10 @@ Project will be developed by [#buildinpublic](https://twitter.com/search?q=%23bu
 
 
 
-[ignore this for now](/docs/Wiki.md) | 
+[web](https://github.com/delicuthq/copycan) | 
 [github](https://github.com/delicuthq/copycan)
+
+
+
+
+[ignore this for now](/docs/Wiki.md)
