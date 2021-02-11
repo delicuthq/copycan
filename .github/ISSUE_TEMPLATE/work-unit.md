@@ -20,7 +20,7 @@
 
 <a href="https://www.figma.com/file/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[wf/s]</a> 
 | 
-<a href="https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[proto ▶]</a> 
+<a href="https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[proto ▶]</a> _proto opens in browser_
 
 
 ## Related
