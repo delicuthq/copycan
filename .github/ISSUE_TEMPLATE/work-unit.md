@@ -1,38 +1,29 @@
----
-name: Work unit
-about: Any deliverable unit of work
-title: ''
-labels: ''
-assignees: ''
+## What - Objective
+<!-- Describe what needs to be done -->
 
----
+## Why - Justification/background
+<!-- Give an idea why it is needed from the user and business point of views -->
 
-## What
-*Describe what needs to be done*
+## How - Acceptance criteria
+<!-- Describe details on how it should be done -->
 
-## Why
-*Give an idea why it is needed*
-
-## How
 *See the design in Figma*
 
-*Describe details on how it should be done*
-
 ## Datapoints
-*Describe fields, components of the UI, and the sources of data to be presented to the users.*
+<!-- Describe fields, components of the UI, and the sources of data to be presented to the users. -->
 
-**Field-name** control-type (required?) - description.
+<!-- Example #1: * **Template name** text input field (required) - The name of the template. -->
 
 ## Design
-*Paste or drag and drop screenshot from Figma for quick reference*
+<!-- Paste or drag and drop screenshot from Figma for quick reference -->
 
-[wf/s](https://www.figma.com/file/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS)
-[proto](https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS)
+<a href="https://www.figma.com/file/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[wf/s]</a> 
+| 
+<a href="https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[proto ▶]</a> 
+
 
 ## Related
-*Specify links to related tickets or documentation pages*
-[Link](../blob/main/docs/{Folder}/Page%20name.md)
-
+<!-- Specify links to related tickets or documentation pages -->
 
 ## Out of scope
 *Explain what was cut from the scope of these tickets, considering that design in Figma is more feature-complete*
