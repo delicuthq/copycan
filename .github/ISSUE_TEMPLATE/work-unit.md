@@ -7,7 +7,8 @@
 ## How - Acceptance criteria
 <!-- Describe details on how it should be done -->
 
-*See the design in Figma*
+
+*See the Design section*
 
 ## Datapoints
 <!-- Describe fields, components of the UI, and the sources of data to be presented to the users. -->
