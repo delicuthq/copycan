@@ -1,3 +1,12 @@
+---
+name: Work unit
+about: Default feature ticket
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## What - Objective
 <!-- Describe what needs to be done -->
 
