@@ -27,9 +27,9 @@ assignees: ''
 ## Design
 <!-- Paste or drag and drop screenshot from Figma for quick reference -->
 
-<a href="https://www.figma.com/file/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[wf/s]</a> 
-| 
-<a href="https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[proto ▶]</a> _proto opens in browser_
+<a href="https://www.figma.com/file/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[wf/s]</a> | <a href="https://www.figma.com/proto/1Jja6ppJSwpkHGC79IvZGu/Copycan?node-id=REPLACE_THIS" target="_blank">[proto ▶]</a> | href="https://t.maze.design/28691868?guerilla=true&origin=github" target="_blank">[maze]</a> 
+
+
 
 
 ## Related
