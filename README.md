@@ -11,8 +11,7 @@ Project will be developed by [#buildinpublic](https://twitter.com/search?q=%23bu
 Project is defided into 3 main scopes. MVP, vNext, and vFuture. Currently the scope of MVP is well defines and ready for technical evaluation. Scopes of vNext and vFuture will depend on deeper user testing and user feedback. 
 
 
-MVP: [project](https://github.com/delicuthq/copycan/project/1) | [scope tickets](https://github.com/delicuthq/copycan/issues?q=is%3Aissue+is%3Aopen+project%3Adelicuthq%2Fcopycan%2F1) 
+MVP: [project](https://github.com/delicuthq/copycan/projects/1) | [scope tickets](https://github.com/delicuthq/copycan/issues?q=is%3Aissue+is%3Aopen+project%3Adelicuthq%2Fcopycan%2F1) 
 
 this page [as is](https://github.com/delicuthq/copycan) | 
 [and as git page](https://github.com/delicuthq/copycan)
-
